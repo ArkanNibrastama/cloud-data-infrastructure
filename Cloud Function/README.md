@@ -1,4 +1,4 @@
-## Build Cloud Function with Terraform
+# Build Cloud Function with Terraform
 
 This repository contain how to build google cloud function using terraform.
 
